@@ -71,7 +71,7 @@ flowchart LR
 
 | Item | Detail |
 |---|---|
-| 📁 File | `ds_ai_ml_full_subjects_5000.csv` |
+| 📁 File | `Student_performance.csv` |
 | 👥 Rows | 5,000 students (one row = one student) |
 | 📊 Features | 15 numerical subject scores |
 | 🧾 Extra columns | `Student_ID`, `Average_Marks`, `Result` (not used in the feature matrix) |
@@ -253,7 +253,7 @@ One dominant direction explains most of the variance. Students mostly differ in 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/tejpatel1034-lang/Caculative_foundation_analysis.git
 cd YOUR_REPO
 
 # 2. Install dependencies
@@ -311,11 +311,10 @@ print(f"First direction explains {explained:.2f}% of total variance")
 
 ```
 📦 Calculative-Foundation
- ┣ 📓 Calculative_Foundation_Student_Performance.ipynb
- ┣ 📊 ds_ai_ml_full_subjects_5000.csv
- ┣ 📝 Calculative_Foundation_Linear_Algebra_Roughwork.docx
- ┣ 📝 Calculative_Foundation_Roughwork_Calculations.docx
- ┣ 📄 PR. 4 Calculative Foundation.pdf
+ ┣ 📓 Calculative_foundation_analysis.ipynb
+ ┣ 📊 Student_performance.csv
+ ┣ 📝 Calculative_Foundation_Roughwork.pdf
+ ┣ 📄 Visuals
  ┗ 📘 README.md
 ```
 
@@ -356,14 +355,8 @@ print(f"First direction explains {explained:.2f}% of total variance")
 ---
 
 ## 🙌 Author
-
-<p align="center">
-  <b>Made with ❤️ and Linear Algebra</b><br/>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-</p>
-
-<p align="center">⭐ If you liked this project, give it a star! ⭐</p>
+- Author Name: Tej Patel 
+- Presenatation video link : https://drive.google.com/file/d/1OlWmGs9_j1rmgve6mppSnopS9ouGcaPM/view?usp=sharing
 
 <!-- ===================== FOOTER (animated wave) ===================== -->
 <p align="center">
